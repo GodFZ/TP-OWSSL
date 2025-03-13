@@ -3,5 +3,4 @@ Datasets and pre-trained models need to be downloaded separately.
 
 # Acknowledgements
 
-The codebase is largely built on this repo: https://github.com/MarcLafon/gallop
-.
+The codebase is largely built on this repo: https://github.com/MarcLafon/gallop and https://github.com/CVMI-Lab/SimGCD .
